@@ -411,6 +411,9 @@ footer {
 /* DESGIN FOR MOBILE */
 @media (max-width: 600px) {
   /* DESIGN FOR HOME PAGE */
+    main{
+        padding-top:20px;
+    }
   .section-home {
     /* border: #007bff solid; */
     flex-direction: column;
