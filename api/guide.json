@@ -1,0 +1,50 @@
+[
+  {
+    "titre": "W3SCHOOLS",
+    "image": "img/guide/w3schools.jpg",
+    "contenu": "Apprends HTML, CSS, JavaScript, Pyhon, et plus encore de façon interactive",
+    "lien": "https://www.w3schools.com/"
+  },
+  {
+    "titre": "FREE CODE CAMP",
+    "image": "img/guide/free-code-camp.jpg",
+    "contenu": "Parcours complet en ligne pour devenir développeur gratuitement",
+    "lien": "https://www.freecodecamp.org/"
+  },
+  {
+    "titre": "SOLOLEARN",
+    "image": "img/guide/sololearn.png",
+    "contenu": "Apprends à coder sur mobile ou web avec des quiz interactifs",
+    "lien": "https://www.sololearn.com/fr/"
+  },
+  {
+    "titre": "DUOLINGO",
+    "image": "img/guide/duolingo.png",
+    "contenu": "Apprends l'anglais gratuitement avec des exercices ludiques et motivants",
+    "lien": "https://www.duolingo.com/"
+  },
+  {
+    "titre": "BBC",
+    "image": "img/guide/bbc.png",
+    "contenu": "Video, audio et exercices d'anglais pour tous niveaux",
+    "lien": "https://www.bbc.co.uk/learningenglish"
+  },
+    {
+    "titre": "USA LEARNS",
+    "image": "img/guide/usa.jpg",
+    "contenu": "Cours gratuits d'anglais américain créés par le gouvernement des USA",
+    "lien": "https://www.usalearns.org"
+  },
+    {
+    "titre": "VOA",
+    "image": "img/guide/voa.png",
+    "contenu": "Ameliore ton anglais avec l'actualité des Etats-Unis et des vidéos simples",
+    "lien": "???????"
+  },
+    {
+    "titre": "YOUGLISH",
+    "image": "img/guide/youglish.webp",
+    "contenu": "Apprends à bien prononcer chaque mot avec des exemples video",
+    "lien": "???????"
+  }
+]
