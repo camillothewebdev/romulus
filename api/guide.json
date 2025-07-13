@@ -29,22 +29,22 @@
     "contenu": "Video, audio et exercices d'anglais pour tous niveaux",
     "lien": "https://www.bbc.co.uk/learningenglish"
   },
-    {
+  {
     "titre": "USA LEARNS",
     "image": "img/guide/usa.jpg",
     "contenu": "Cours gratuits d'anglais américain créés par le gouvernement des USA",
     "lien": "https://www.usalearns.org"
   },
-    {
+  {
     "titre": "VOA",
     "image": "img/guide/voa.png",
     "contenu": "Ameliore ton anglais avec l'actualité des Etats-Unis et des vidéos simples",
-    "lien": "???????"
+    "lien": "https://learningenglish.voanews.com/"
   },
-    {
+  {
     "titre": "YOUGLISH",
     "image": "img/guide/youglish.webp",
     "contenu": "Apprends à bien prononcer chaque mot avec des exemples video",
-    "lien": "???????"
+    "lien": "https://youglish.com/"
   }
 ]

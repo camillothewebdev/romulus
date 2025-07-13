@@ -234,10 +234,14 @@ iframe{
   /* border: solid darkred; */
   margin-top: 20px;
 }
+.liste-cartes{
+  width: 80%;
+  margin: auto;
+}
 .cartes {
  display: flex;
  flex-wrap: wrap;
-
+ margin:20px;
  gap: 25px;
 }
 
@@ -410,10 +414,11 @@ footer {
 
 /* DESGIN FOR MOBILE */
 @media (max-width: 600px) {
+
+  main{
+    padding-top: 26px;
+  }
   /* DESIGN FOR HOME PAGE */
-    main{
-        padding-top:26px;
-    }
   .section-home {
     /* border: #007bff solid; */
     flex-direction: column;
@@ -498,6 +503,8 @@ header > ul{
    header >  ul  > li > a{
     font-size: 1rem;
   }
-
+.liste-cartes{
+  width: 100%;
+}
 
 }
