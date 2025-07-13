@@ -1,0 +1,27 @@
+[
+  {
+    "titre": "WHATSAPP",
+    "image": "img/contact/whatsapp.png",
+    "lien": "https://wa.me/243814831802"
+  },
+  {
+    "titre": "FACEBOOK",
+    "image": "img/contact/facebook.png",
+    "lien": "https://web.facebook.com/romy.lengo.1"
+  },
+  {
+    "titre": "INSTAGRAM",
+    "image": "img/contact/instagram.png",
+    "lien": "https://www.instagram.com/romulus2113/"
+  },
+  {
+    "titre": "YOUTUBE",
+    "image": "img/contact/youtube.png",
+    "lien": "https://www.youtube.com/@RomulusLengo"
+  },
+  {
+    "titre": "TELEGRAM",
+    "image": "img/contact/telegram.png",
+    "lien": "https://web.telegram.org/a/#-1001992337759"
+  }
+]
