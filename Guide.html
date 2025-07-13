@@ -4,23 +4,28 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Guide</title>
-    <link rel="shortcut icon" href="img/autres/romulus.jpg" type="image/x-icon">
+    <link
+      rel="shortcut icon"
+      href="img/autres/romulus.jpg"
+      type="image/x-icon"
+    />
     <link rel="stylesheet" href="style.css" />
     <script src="logique/rechercher_guide.js" defer></script>
   </head>
   <body>
     <script src="logique/afficher_entete.js"></script>
     <main>
-      <section class="ressources">
-        <h2>Ressources de cours en ligne</h2>
-        <input type="text" id="searchBar" placeholder="Rechercher un cours" autocomplete="off" />
-        <div class="liste-cartes">
-          <div class="cartes">
-            <script src="logique/afficher_guide.js"></script>
-          </div>
-        </div>
-      </section>
+      <h2>Ressources en ligne</h2>
+      <input
+        type="text"
+        id="txt_recherche"
+        class="recherche"
+        placeholder="Rechercher un cours"
+        autocomplete="off"
+      />
+      <div class="liste">
+        <script src="logique/afficher_guide.js"></script>
+      </div>
     </main>
   </body>
 </html>
- 

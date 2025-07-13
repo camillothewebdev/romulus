@@ -1,14 +1,14 @@
-searchBar.addEventListener("input", () => {
-  document.querySelectorAll(".carte").forEach((card) => {
-    card.style.display =
-      card
-        .querySelector("h3")
+txt_recherche.addEventListener("input", () => {
+  document.querySelectorAll(".guide").forEach((guide) => {
+    guide.style.display =
+      guide
+        .querySelector(".titre")
         .textContent.toLowerCase()
-        .includes(searchBar.value.toLowerCase()) ||
-      card
-        .querySelector("p")
+        .includes(txt_recherche.value.toLowerCase()) ||
+      guide
+        .querySelector(".contenu")
         .textContent.toLowerCase()
-        .includes(searchBar.value.toLowerCase())
+        .includes(txt_recherche.value.toLowerCase())
         ? "block"
         : "none";
   });
