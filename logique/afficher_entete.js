@@ -13,3 +13,4 @@ for (let lien of document.querySelectorAll("header a")) {
     lien.classList.add("Active");
   }
 }
+
