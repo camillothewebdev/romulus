@@ -165,7 +165,7 @@ footer {
   grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
   background-color: #f1f9ff;
   width: 80%;
-  padding: 15px;
+  padding: 20px;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   max-width: 500px;
@@ -173,10 +173,12 @@ footer {
 .contact .image {
   width: 60px;
 }
-
 /* SPECIAL */
 .cours:hover {
   transform: scale(1.02);
+}
+.contact a:hover {
+  transform: scale(1.2);
 }
 .cours .telecharger:hover {
   background-color: #005fa3;
@@ -194,4 +196,9 @@ header a:hover {
   cursor: pointer;
 }
 
-/* PAS DE MEDIA QUERIES */
+@media (min-width: 1024px) {
+  header {
+    justify-content: end;
+    gap: 2em;
+  }
+}
